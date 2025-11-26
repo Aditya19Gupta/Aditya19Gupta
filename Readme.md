@@ -1,4 +1,4 @@
-# Hi 👋, I'm Narottam Choudhary
+# Hi 👋, I'm Aditya Gupta
 
 [![Coding](https://img.shields.io/badge/Coding-Enthusiast-blue?style=for-the-badge)](https://github.com/narottamchy)
 
