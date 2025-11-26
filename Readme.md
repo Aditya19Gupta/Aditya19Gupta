@@ -1,7 +1,5 @@
 # Hi 👋, I'm Narottam Choudhary
 
-### Not only proficient in coding, but also skilled in music 🎵
-
 [![Coding](https://img.shields.io/badge/Coding-Enthusiast-blue?style=for-the-badge)](https://github.com/narottamchy)
 
 ---
