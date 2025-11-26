@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Machine Learning**
 - 💬 Ask me about **React JS, Next JS, Node JS, Full-Stack Development**
-- 💻 Check out my portfolio: [https://www.xadisri.in/]- 📫 Reach me at: **adityacse207@gmail.com**
+- 💻 Check out my portfolio: [https://www.xadisri.in/] 📫 Reach me at: **adityacse207@gmail.com**
 ---
 
 ## 🌐 Connect with Me
