@@ -11,15 +11,6 @@
 - 💻 Check out my portfolio: [https://www.xadisri.in/] 📫 Reach me at: **adityacse207@gmail.com**
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://twitter.com/narottamchy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narottamchy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/narottamchy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narottamchy" height="30" width="40" /></a>
-<a href="https://instagram.com/narcmusic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narcmusic" height="30" width="40" /></a>
-<a href="https://github.com/narottamchy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="narottamchy" height="30" width="40" /></a>
-</p>
-
 ---
 
 ## 🛠️ Languages and Tools
