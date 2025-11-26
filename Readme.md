@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **Machine Learning**
+- 🌱 I'm currently learning **AI and Machine learning**
 - 💬 Ask me about **React JS, Next JS, Node JS, Full-Stack Development**
 - 💻 Check out my portfolio: [https://www.xadisri.in/] 📫 Reach me at: **adityacse207@gmail.com**
 ---
