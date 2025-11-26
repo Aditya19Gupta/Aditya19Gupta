@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Gupta
 
-[![Coding]
+![Coding]
 
 ---
 
